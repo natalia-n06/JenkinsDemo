@@ -1,3 +1,3 @@
 # JenkinsDemo
 
-Here will be added some basic file to explore Jenkins capabilities
+Here will be added some basic files to explore Jenkins capabilities
