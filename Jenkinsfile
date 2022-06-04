@@ -3,13 +3,11 @@ pipeline{
   parameters {}
   stages{
     stage('Build '){
-      scripts{
         steps{
           script {
               echo "Hello there"
           }
         }
-      }
     }
   }
 }
